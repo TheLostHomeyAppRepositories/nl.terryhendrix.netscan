@@ -34,5 +34,8 @@
   },
   "2.0.8": {
     "en": "Fixed 'Invert' option on 'Is OnLine' condition card. Deprecated 'Is Offline' condition card."
+  },
+  "2.0.9": {
+    "en": "Added German translations thanks to Dirk Göbel"
   }
 }

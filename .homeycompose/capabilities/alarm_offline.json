@@ -10,12 +10,12 @@
     "insights": true,
     "insightsTitleFalse": {
         "en": "IP is reachable",
-        "nl": "IP ist bereikbaar",
+        "nl": "IP is bereikbaar",
         "de": "IP ist erreichbar"
     },
     "insightsTitleTrue": {
         "en": "IP not reachable",
-        "nl": "IP nicht bereikbaar",
+        "nl": "IP niet bereikbaar",
         "de": "IP ist nicht erreichbar"
 
     },
