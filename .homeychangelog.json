@@ -37,5 +37,8 @@
   },
   "2.0.9": {
     "en": "Added German translations thanks to Dirk Göbel"
+  },
+  "2.1.0": {
+	"en": "Fixed dutch translations."
   }
 }
